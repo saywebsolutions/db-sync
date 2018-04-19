@@ -1,5 +1,5 @@
 {
-  "name": "mrjgreen/db-sync",
+  "name": "saywebsolutions/db-sync-no-cli",
   "type": "library",
   "description": "Efficient MySQL comparison and sync utility",
   "license" : "MIT",
